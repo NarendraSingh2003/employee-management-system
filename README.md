@@ -91,5 +91,3 @@ Password: admin123
 * PDF Report Generation
 * REST API Integration
 * Role-Based Authentication
-
-https://github.com/NarendraSingh2003/employee-management-system
